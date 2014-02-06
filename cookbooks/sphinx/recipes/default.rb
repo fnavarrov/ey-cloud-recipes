@@ -1,6 +1,3 @@
-recipes 'main'
-owner_name @attributes[:users].first[:username]
-owner_pass @attributes[:users].first[:password]
 #
 # Cookbook Name:: sphinx
 # Recipe:: default
